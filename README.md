@@ -1,0 +1,1 @@
+# slovak-czech-profanity-filter
